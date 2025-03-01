@@ -1,0 +1,14 @@
+
+*.zip
+*.csv
+*.emb
+*.vec
+*.pt
+*.ckpt
+*.h5
+output/
+logs/
+*.log
+*.tmp
+__pycache__/
+.cache/
